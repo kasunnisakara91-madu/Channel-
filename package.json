@@ -1,0 +1,19 @@
+{
+  "name": "madusanka-channel-bot",
+  "version": "1.0.0",
+  "description": "MADUSANKA CHANNEL BOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "pino": "latest"
+  }
+}
